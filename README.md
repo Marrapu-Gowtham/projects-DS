@@ -49,12 +49,17 @@ Insights from Uber trip data, focusing on factors influencing ride requests, sur
 
 
 --> Libraries Used
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Folium
+
+
+Pandas,
+NumPy,
+Matplotlib,
+Plotly,
+Seaborn,
+Scikit-learn,
+Folium.
 
 --> Acknowledgments
+
+
 Special thanks to the dataset providers and libraries that made this analysis possible.
